@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Chat project**
 
-- 📖 Reading (**Designing Interfaces**)[https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/]
+- 📖 Reading [**Designing Interfaces**](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/)
 
 - 💬 Ask me about **TypeScript, React or Vue**
 
