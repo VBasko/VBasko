@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktoriia</h1>
 <h3 align="center">A middle frontend developer, currently located in Brazil</h3>
 
-- 🔭 I’m currently working on [**Cryptocurrency Portfolio Tracker project**](https://github.com/VBasko/cryptocurrency-tracker-vue)
+- 🔭 I’m currently working on... secret project 😉
 
 - 📖 Reading [**Designing Interfaces**](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/)
 
